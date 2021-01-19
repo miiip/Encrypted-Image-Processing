@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1711ed0-ee43-4512-a75f-d37a846f8b6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lp9C54K2p9XX8ZRxivgNX1iBZr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.encrypted_comparasion_heaviside">
+    <configuration name="encrypted_comparasion_heaviside" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Disertatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encrypted_comparasion_heaviside.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="encrypted_exponentiation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Disertatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encrypted_exponentiation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="serialization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Disertatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serialization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sigmoid_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Disertatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sigmoid_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_polynomial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Disertatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_polynomial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.encrypted_comparasion_heaviside" />
+        <item itemvalue="Python.serialization" />
+        <item itemvalue="Python.encrypted_exponentiation" />
+        <item itemvalue="Python.sigmoid_test" />
+        <item itemvalue="Python.test_polynomial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1711ed0-ee43-4512-a75f-d37a846f8b6a" name="Default Changelist" comment="" />
+      <created>1608283034551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608283034551</updated>
+      <workItem from="1608283035749" duration="600000" />
+      <workItem from="1609518722016" duration="17000" />
+      <workItem from="1609745811727" duration="1529000" />
+      <workItem from="1610003825056" duration="12787000" />
+      <workItem from="1610044471551" duration="2223000" />
+      <workItem from="1610085694814" duration="7397000" />
+      <workItem from="1610112460799" duration="812000" />
+      <workItem from="1610345548471" duration="3119000" />
+      <workItem from="1610439144089" duration="13283000" />
+      <workItem from="1610520713015" duration="14658000" />
+      <workItem from="1610606572873" duration="3056000" />
+      <workItem from="1610620201817" duration="2416000" />
+      <workItem from="1610696377607" duration="643000" />
+      <workItem from="1610952759371" duration="2152000" />
+      <workItem from="1610988603310" duration="3022000" />
+      <workItem from="1611038498379" duration="2150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom" timestamp="1611047016864">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1611047016864" />
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1610978209424" />
+    <state width="1750" height="273" key="GridCell.Tab.0.center" timestamp="1611047016863">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1611047016863" />
+    <state width="1750" height="273" key="GridCell.Tab.0.center/0.25.1792.1010@0.25.1792.1010" timestamp="1610978209422" />
+    <state width="1750" height="273" key="GridCell.Tab.0.left" timestamp="1611047016862">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1611047016862" />
+    <state width="1750" height="273" key="GridCell.Tab.0.left/0.25.1792.1010@0.25.1792.1010" timestamp="1610978209421" />
+    <state width="1750" height="273" key="GridCell.Tab.0.right" timestamp="1611047016863">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="273" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1611047016863" />
+    <state width="1750" height="273" key="GridCell.Tab.0.right/0.25.1792.1010@0.25.1792.1010" timestamp="1610978209423" />
+    <state width="1750" height="486" key="GridCell.Tab.1.bottom" timestamp="1610615491572">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="486" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1610615491572" />
+    <state width="1750" height="486" key="GridCell.Tab.1.center" timestamp="1610615491571">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="486" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1610615491571" />
+    <state width="1750" height="486" key="GridCell.Tab.1.left" timestamp="1610615491570">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="486" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1610615491570" />
+    <state width="1750" height="486" key="GridCell.Tab.1.right" timestamp="1610615491571">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="486" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1610615491571" />
+    <state x="405" y="196" key="SettingsEditor" timestamp="1608284680407">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1608284680407" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1610024931545">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="896" height="560" key="XDebugger.FullValuePopup/0.0.1792.1120@0.0.1792.1120" timestamp="1610024931545" />
+    <state x="551" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1610112468124">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="551" y="366" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1610112468124" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simple_filter.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simple_filter.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simple_mean_encrypted.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mse_encrypted.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/encrypted_gamma.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_power_series.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sigmoid_test.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="list(image.getdata())" language="Python" />
+        <watch expression="outputs['image_r']" language="Python" />
+        <watch expression="outputs['image_r'][0:h*w]" language="Python" />
+        <watch expression="math.exp(k*y)" language="Python" />
+        <watch expression="exp1+exp2" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Disertatie$encrypted_gamma_gray.coverage" NAME="encrypted_gamma_gray Coverage Results" MODIFIED="1610453446271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$serialization.coverage" NAME="serialization Coverage Results" MODIFIED="1610994240337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$test_comparasion.coverage" NAME="test_comparasion Coverage Results" MODIFIED="1610614017746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$sigmoid_test.coverage" NAME="sigmoid_test Coverage Results" MODIFIED="1610629391700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$encrypted_exponentiation.coverage" NAME="encrypted_exponentiation Coverage Results" MODIFIED="1610994134121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$encrypted_color_reduction.coverage" NAME="encrypted_color_reduction Coverage Results" MODIFIED="1610537813312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$simple_encoding.coverage" NAME="simple_encoding Coverage Results" MODIFIED="1609765857859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$test_polynomial.coverage" NAME="test_polynomial Coverage Results" MODIFIED="1610614621533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$simple_filter.coverage" NAME="simple_filter Coverage Results" MODIFIED="1610028003205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$mse_experiment.coverage" NAME="mse_experiment Coverage Results" MODIFIED="1610356616849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$image_processing.coverage" NAME="image_processing Coverage Results" MODIFIED="1610023820125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$encrypted_comparation.coverage" NAME="encrypted_comparation Coverage Results" MODIFIED="1610546430954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$encrypted_comparasion_heaviside.coverage" NAME="encrypted_comparasion_heaviside Coverage Results" MODIFIED="1611047016855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$mse_encrypted.coverage" NAME="mse_encrypted Coverage Results" MODIFIED="1610355358649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$encrypted_gamma.coverage" NAME="encrypted_gamma Coverage Results" MODIFIED="1610462543389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$simple_mean_encrypted.coverage" NAME="simple_mean_encrypted Coverage Results" MODIFIED="1610105756180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$test_power_series.coverage" NAME="test_power_series Coverage Results" MODIFIED="1610543066606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
