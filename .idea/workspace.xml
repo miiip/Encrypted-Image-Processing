@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1711ed0-ee43-4512-a75f-d37a846f8b6a" name="Default Changelist" comment="" />
+    <list default="true" id="a1711ed0-ee43-4512-a75f-d37a846f8b6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/encrypted_max_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encrypted_max_rgb_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lp9C54K2p9XX8ZRxivgNX1iBZr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +39,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.encrypted_comparasion_heaviside">
+  <component name="RunManager" selected="Python.encrypted_max_min">
     <configuration name="encrypted_comparasion_heaviside" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Disertatie" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,6 +76,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encrypted_exponentiation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="encrypted_max_min" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Disertatie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encrypted_max_min.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,35 +150,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_polynomial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Disertatie" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_polynomial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.encrypted_max_min" />
         <item itemvalue="Python.encrypted_comparasion_heaviside" />
         <item itemvalue="Python.serialization" />
         <item itemvalue="Python.encrypted_exponentiation" />
         <item itemvalue="Python.sigmoid_test" />
-        <item itemvalue="Python.test_polynomial" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +185,8 @@
       <workItem from="1610696377607" duration="643000" />
       <workItem from="1610952759371" duration="2152000" />
       <workItem from="1610988603310" duration="3022000" />
-      <workItem from="1611038498379" duration="2150000" />
+      <workItem from="1611038498379" duration="2497000" />
+      <workItem from="1611125161649" duration="3459000" />
     </task>
     <servers />
   </component>
@@ -185,25 +194,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="273" key="GridCell.Tab.0.bottom" timestamp="1611047016864">
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom" timestamp="1611150943619">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="273" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1611047016864" />
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1611150943619" />
     <state width="1750" height="273" key="GridCell.Tab.0.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1610978209424" />
-    <state width="1750" height="273" key="GridCell.Tab.0.center" timestamp="1611047016863">
+    <state width="1750" height="273" key="GridCell.Tab.0.center" timestamp="1611150943618">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="273" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1611047016863" />
+    <state width="1750" height="273" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1611150943618" />
     <state width="1750" height="273" key="GridCell.Tab.0.center/0.25.1792.1010@0.25.1792.1010" timestamp="1610978209422" />
-    <state width="1750" height="273" key="GridCell.Tab.0.left" timestamp="1611047016862">
+    <state width="1750" height="273" key="GridCell.Tab.0.left" timestamp="1611150943617">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="273" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1611047016862" />
+    <state width="1750" height="273" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1611150943617" />
     <state width="1750" height="273" key="GridCell.Tab.0.left/0.25.1792.1010@0.25.1792.1010" timestamp="1610978209421" />
-    <state width="1750" height="273" key="GridCell.Tab.0.right" timestamp="1611047016863">
+    <state width="1750" height="273" key="GridCell.Tab.0.right" timestamp="1611150943618">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="273" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1611047016863" />
+    <state width="1750" height="273" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1611150943618" />
     <state width="1750" height="273" key="GridCell.Tab.0.right/0.25.1792.1010@0.25.1792.1010" timestamp="1610978209423" />
     <state width="1750" height="486" key="GridCell.Tab.1.bottom" timestamp="1610615491572">
       <screen x="0" y="0" width="1792" height="1120" />
@@ -297,6 +306,7 @@
     <SUITE FILE_PATH="coverage/Disertatie$mse_experiment.coverage" NAME="mse_experiment Coverage Results" MODIFIED="1610356616849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Disertatie$image_processing.coverage" NAME="image_processing Coverage Results" MODIFIED="1610023820125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Disertatie$encrypted_comparation.coverage" NAME="encrypted_comparation Coverage Results" MODIFIED="1610546430954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Disertatie$encrypted_max_min.coverage" NAME="encrypted_max_min Coverage Results" MODIFIED="1611150505246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Disertatie$encrypted_comparasion_heaviside.coverage" NAME="encrypted_comparasion_heaviside Coverage Results" MODIFIED="1611047016855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Disertatie$mse_encrypted.coverage" NAME="mse_encrypted Coverage Results" MODIFIED="1610355358649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Disertatie$encrypted_gamma.coverage" NAME="encrypted_gamma Coverage Results" MODIFIED="1610462543389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
